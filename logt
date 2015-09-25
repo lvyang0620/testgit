@@ -1,0 +1,66 @@
+[33mcommit 7161ee231153fb02c51e96d7da382eee4a8d2f9e[m
+Merge: f589edc 78b312f
+Author: lvyang <1043396030@qq.com>
+Date:   Fri Sep 25 14:27:53 2015 +0800
+
+    conflict fixed
+
+[33mcommit f589edc71d3963ede289bc31160769c0c474f694[m
+Author: lvyang <1043396030@qq.com>
+Date:   Fri Sep 25 14:24:00 2015 +0800
+
+    在master分支上增加内容999999
+
+[33mcommit 78b312fc17d879a0efd6b42dc4f6859f69766308[m
+Author: lvyang <1043396030@qq.com>
+Date:   Fri Sep 25 14:21:58 2015 +0800
+
+    在分支1上添加内容888888
+
+[33mcommit 2a7f0a2e3d12a30e0a9f98c2c52b0dd2e5c20953[m
+Author: lvyang <1043396030@qq.com>
+Date:   Fri Sep 25 13:50:18 2015 +0800
+
+    在dev分支上增加777777
+
+[33mcommit 19f39e6594c1794e0dfb7175900523993ab808a6[m
+Author: lvyang <1043396030@qq.com>
+Date:   Fri Sep 25 11:56:30 2015 +0800
+
+    添加c.txt到本地库
+
+[33mcommit ffe5bbdaff6d154c89c44b7239c7e1555a67e807[m
+Author: lvyang <1043396030@qq.com>
+Date:   Fri Sep 25 11:26:37 2015 +0800
+
+    添加a.txt，b.txt
+
+[33mcommit f2a10f409253579604871c3b05d765e2fe917b7d[m
+Author: lvyang <1043396030@qq.com>
+Date:   Fri Sep 25 11:23:08 2015 +0800
+
+    添加666666
+
+[33mcommit 6453f4ca5a8d03e85c5542d46b1897e2a82dce08[m
+Author: lvyang <1043396030@qq.com>
+Date:   Fri Sep 25 11:16:13 2015 +0800
+
+    一次性提交所有文件
+
+[33mcommit bd82744d8d773898b4fefae8d3d2af670c506834[m
+Author: lvyang <1043396030@qq.com>
+Date:   Fri Sep 25 10:27:29 2015 +0800
+
+    文件增加333333内容
+
+[33mcommit 1c715d8317df24b284be57fb4cf254167e741f86[m
+Author: lvyang <1043396030@qq.com>
+Date:   Fri Sep 25 10:26:10 2015 +0800
+
+    文件增加222222内容
+
+[33mcommit a8de878bee296f80b61473d03ec744ec5a99a393[m
+Author: lvyang <1043396030@qq.com>
+Date:   Fri Sep 25 10:21:27 2015 +0800
+
+    readme.txt提交
